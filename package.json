@@ -1,5 +1,6 @@
 {
   "name": "genshin-gacha-analyzer",
+  "homepage": "https://li704644993.github.io/ys",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
